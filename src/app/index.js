@@ -1,3 +1,5 @@
+require("./index.html");
+
 import _ from 'lodash';
 
 function component () {

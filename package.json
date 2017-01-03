@@ -12,7 +12,11 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
+    "extract-loader": "^0.1.0",
+    "file-loader": "^0.9.0",
+    "html-loader": "^0.4.4",
     "lodash": "^4.17.4",
-    "webpack": "beta"
+    "webpack": "beta",
+    "webpack-dev-server": "^1.16.2"
   }
 }
