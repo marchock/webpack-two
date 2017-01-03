@@ -1,3 +1,6 @@
 # webpack-two
 
-test
+yarn install
+
+# webpack help 
+## ./node_modules/.bin/webpack --help
