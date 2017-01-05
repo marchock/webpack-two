@@ -1,14 +1,10 @@
 require("./index.html");
 
-import _ from 'lodash';
-
-function component () {
+var component = () => {
   var element = document.createElement('div');
 
   /* lodash is required for the next line to work */
-  element.innerHTML = _.map(['Hello','webpack'], function(item){
-    return item + ' ';
-  });
+  element.innerHTML = 'HELLO WORLD.........';
 
   return element;
 }
